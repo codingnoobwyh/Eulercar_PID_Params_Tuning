@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "c/cpp plugin configurations",
+            "compilerPath": "C:/Software/HiSpark-Studio/tools/Windows/cc_riscv32_musl_fp_win/bin/riscv32-linux-musl-gcc.exe",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "${workspaceFolder}/**"
+                ]
+            },
+            "defines": [
+                "FLOAT_SUPPORT"
+            ]
+        }
+    ],
+    "version": 4
+}
